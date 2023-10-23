@@ -1,0 +1,7 @@
+In aceasta prima parte am reusit sa compunem o echipa de 5 persoane si sa atribuim roluri fiecaruia, anume:
+- Florea George (Senior Code)
+- Hurloi Selena
+- Stanciu Sergiu
+- Sandor Cristian
+- Teleaga Dragos (Team Leader)
+Totodata am compus o idee pentru proiect, aceasta poate fi vizualizata in readMe. 
