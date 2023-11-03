@@ -1,3 +1,7 @@
+# [Trello](https://trello.com/b/VbuYAsOw/gladiators-gauntlet-unity) # :
+
+
+
 # Imperiul Roman: Jocul Labirintului 2D
 
 Acest joc se transformă într-un labirint 2D în stilul imperial roman, cu nivele, misiuni și un accent deosebit pe strategie și aventură. Scopul jocului este să parcurgi aceste nivele într-un mod cât mai eficient, acumulând un scor cât mai impresionant pe parcurs. 
