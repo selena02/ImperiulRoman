@@ -2,9 +2,9 @@
 
 
 
-# Imperiul Roman: Jocul Labirintului 2D
+# Imperiul Roman: Jocul Labirintului 3D
 
-Acest joc se transformă într-un labirint 2D în stilul imperial roman, cu nivele, misiuni și un accent deosebit pe strategie și aventură. Scopul jocului este să parcurgi aceste nivele într-un mod cât mai eficient, acumulând un scor cât mai impresionant pe parcurs. 
+Acest joc se transformă într-un labirint 3D în stilul imperial roman, cu nivele, misiuni și un accent deosebit pe strategie și aventură. Scopul jocului este să parcurgi aceste nivele într-un mod cât mai eficient, acumulând un scor cât mai impresionant pe parcurs. 
 
 ## Tema Jocului
 
