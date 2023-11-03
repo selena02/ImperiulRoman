@@ -1,4 +1,4 @@
-# [Trello](https://trello.com/b/VbuYAsOw/gladiators-gauntlet-unity) # :
+# [Trello link](https://trello.com/b/VbuYAsOw/gladiators-gauntlet-unity) 
 
 
 
