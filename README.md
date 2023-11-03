@@ -18,4 +18,4 @@ Acest joc se transformă într-un labirint 3D în stilul imperial roman, cu nive
 
 - Scopul final este să ajungi la inima imperiului, unde te așteaptă o confruntare epică. Rezultatul jocului cu zarurile și scorul acumulat până atunci vor influența desfășurarea finală a poveștii tale în acest labirint imperial.
 
-Cu o grafică impresionantă, o atmosferă autentică romană și un amestec unic de aventură și strategie, acest joc 2D cu influențe romane te va captiva și îți va oferi o experiență captivantă în timp ce încerci să obții cel mai mare scor posibil în Imperiul Roman.
+Cu o grafică impresionantă, o atmosferă autentică romană și un amestec unic de aventură și strategie, acest joc 3D cu influențe romane te va captiva și îți va oferi o experiență captivantă în timp ce încerci să obții cel mai mare scor posibil în Imperiul Roman.
