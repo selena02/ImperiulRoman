@@ -2,20 +2,22 @@
 
 
 
-# Imperiul Roman: Jocul Labirintului 3D
+# Idea jocului: "Gladiator's Gauntlet"
 
-Acest joc se transformă într-un labirint 3D în stilul imperial roman, cu nivele, misiuni și un accent deosebit pe strategie și aventură. Scopul jocului este să parcurgi aceste nivele într-un mod cât mai eficient, acumulând un scor cât mai impresionant pe parcurs. 
+In "Pisica Labirintului: Cautarea Mama Pisi," jucatorul este teleportat intr-un labirint masiv si misterios, plin de camere diferite, fiecare oferind provocari si oportunitati unice. Scopul jocului este de a gasi pisica mama, care detine puteri magice, si pentru asta, jucatorul trebuie sa exploreze labirintul, sa interactioneze cu NPC-urile si sa colecteze obiecte magice.
 
-## Tema Jocului
+#Mecanica jocului:
 
-În mijlocul frumosului și amenințătorului Imperiu Roman, vei naviga prin labirinturi pline de capcane, mistere și oportunități neașteptate. De-a lungul călătoriei tale, te vei întâlni cu o varietate de personaje non-jucătoare, fiecare cu povestea și abilitățile lor unice. Aici intervine elementul de joc cu zarurile, care adaugă o notă de noroc și strategie:
+1. Labirintul Interactiv: Labirintul este vast si plin de camere variate, de la incaperi cu gladiatori rai pana la locuri cu lei obraznici sau negustori. Fiecare camera ofera o provocare unica si oportunitati de a colecta obiecte magice sau a interactiona cu NPC-urile.
 
-- Când întâlnești un NPC, ai șansa de a juca la zaruri. Dacă câștigi, vei obține un bonus de scor considerabil. Acest bonus te va ajuta să îți îmbunătățești performanța generală în joc.
+2. Collectables Magice: Pe masura ce jucatorul progreseaza, acesta poate colecta obiecte magice, cum ar fi puteri care ofera viteza, viziune sporita, crestere a puterii de atac, a puterii magice, potiuni de teleportare, vindecare, sau chiar noi spell-uri (foc/gheata). Aceste obiecte magice sunt esentiale pentru a face fata provocarilor din labirint.
 
-- Pe parcursul aventurii tale, vei putea colecta obiecte magice și abilități speciale care îți vor oferi un avantaj în jocurile cu zarurile și în rezolvarea provocărilor din labirint.
+3. NPC-uri Variate: Jucatorul va interactiona cu diferiti NPC-uri, cum ar fi gladiatori rai, lei obraznici, indrumatori buni sau rai, si negustori. Aceste interactiuni pot duce la achizitionarea de obiecte magice, informatii utile sau provocari cu recompense tentante.
 
-- Pe măsură ce avansezi în nivelele labirintului, te vei confrunta cu capcane, puzzle-uri și obstacole care necesită gândire strategică pentru a le depăși.
+4. Statistici Personaj: Jucatorul va avea un set de statistici personaj, cum ar fi HP, mana, inventarul pentru obiecte magice, bani, noroc si sansa critica. Statisticile vor influenta abilitatile si rezultatele confruntarilor din labirint.
 
-- Scopul final este să ajungi la inima imperiului, unde te așteaptă o confruntare epică. Rezultatul jocului cu zarurile și scorul acumulat până atunci vor influența desfășurarea finală a poveștii tale în acest labirint imperial.
+5. Puii de Pisica: Pe parcursul jocului, jucatorul va putea gasi si colecta pui de pisici, fiecare fiind un talisman cu puteri unice. Aceste talismane pot oferi avantaje precum mai mult noroc, sansa critica crescuta, mai multi bani, mai multa viata sau spell-uri suplimentare.
 
-Cu o grafică impresionantă, o atmosferă autentică romană și un amestec unic de aventură și strategie, acest joc 3D cu influențe romane te va captiva și îți va oferi o experiență captivantă în timp ce încerci să obții cel mai mare scor posibil în Imperiul Roman.
+6. Confruntare Epica: Scopul final al jocului este sa ajungi la o confruntare epica cu gladiatorul epic, care detine cheia pentru a gasi pisica mama. Aceasta lupta va testa abilitatile si obiectele magice colectate in labirint si va reprezenta apogeul aventurii.
+
+In "Pisica Labirintului: Cautarea Mama Pisi," jucatorii vor trebui sa ia decizii inteligente, sa exploreze cu atentie si sa se pregateasca pentru confruntari dificile pentru a ajunge la finalul labirintului si a gasi pisica mama.
