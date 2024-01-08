@@ -4,9 +4,9 @@
 
 # Idea jocului: "Gladiator's Gauntlet"
 
-In "Pisica Labirintului: Cautarea Mama Pisi," jucatorul este teleportat intr-un labirint masiv si misterios, plin de camere diferite, fiecare oferind provocari si oportunitati unice. Scopul jocului este de a gasi pisica mama, care detine puteri magice, si pentru asta, jucatorul trebuie sa exploreze labirintul, sa interactioneze cu NPC-urile si sa colecteze obiecte magice.
+In "Gladiator's Gauntlet" jucatorul este teleportat intr-un labirint masiv si misterios, plin de camere diferite, fiecare oferind provocari si oportunitati unice. Scopul jocului este de a gasi pisica mama, care detine puteri magice, si pentru asta, jucatorul trebuie sa exploreze labirintul, sa interactioneze cu NPC-urile si sa colecteze obiecte magice.
 
-#Mecanica jocului:
+# Mecanica jocului:
 
 1. Labirintul Interactiv: Labirintul este vast si plin de camere variate, de la incaperi cu gladiatori rai pana la locuri cu lei obraznici sau negustori. Fiecare camera ofera o provocare unica si oportunitati de a colecta obiecte magice sau a interactiona cu NPC-urile.
 
