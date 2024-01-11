@@ -9,6 +9,9 @@ public class CollectibleCount : MonoBehaviour {
     private int count;
 
     [SerializeField]
+    private Button lightButton;
+
+    [SerializeField]
     private Button speedButton;
 
     [SerializeField]
@@ -27,6 +30,7 @@ public class CollectibleCount : MonoBehaviour {
 
         speedButton.gameObject.SetActive(false);
         traceButton.gameObject.SetActive(false);
+        lightButton.gameObject.SetActive(false);
     }
 
     private void OnEnable()
@@ -81,6 +85,7 @@ public class CollectibleCount : MonoBehaviour {
     {
         speedButton.gameObject.SetActive(true);
         traceButton.gameObject.SetActive(true);
+        lightButton.gameObject.SetActive(true);
         UnlockCursor();
     }
 
@@ -89,6 +94,7 @@ public class CollectibleCount : MonoBehaviour {
         Debug.Log("Speed button clicked.");
         speedButton.gameObject.SetActive(false);
         traceButton.gameObject.SetActive(false);
+        lightButton.gameObject.SetActive(false);
         LockCursor();
     }
 
@@ -97,6 +103,16 @@ public class CollectibleCount : MonoBehaviour {
         Debug.Log("Trace button clicked.");
         traceButton.gameObject.SetActive(false);
         speedButton.gameObject.SetActive(false);
+        lightButton.gameObject.SetActive(false);
+        LockCursor();
+    }
+
+    public void LightButtonClicked()
+    {
+        Debug.Log("Light button clicked.");
+        traceButton.gameObject.SetActive(false);
+        speedButton.gameObject.SetActive(false);
+        lightButton.gameObject.SetActive(false);
         LockCursor();
     }
 

@@ -114,6 +114,8 @@ namespace StarterAssets
         private StarterAssetsInputs _input;
         private GameObject _mainCamera;
         private TrailRenderer _trailRenderer;
+        [SerializeField]
+        private Light _lightPlayer;
 
         private const float _threshold = 0.01f;
 
@@ -439,5 +441,17 @@ namespace StarterAssets
                 _trailRenderer.enabled = false;
             }
         }
+        public IEnumerator ResetLightnessAfterDelay()
+        {
+            yield return new WaitForSeconds(10.0f);
+            _lightPlayer.intensity -= 50;
+        }
+
+        public void IncreaseLightness()
+        {
+            _lightPlayer.intensity += 50;
+            StartCoroutine(ResetLightnessAfterDelay());
+        }
+
     }
 }
